@@ -7,6 +7,9 @@ site_author: Maciej Sobczak
 site_description: >-
     Portfolio moich wspaniałych projektów z Data Science i AI!
 
+#repo_name: Maciekds1981/portfolio
+#site_url: https:/https://github.com/Maciekds1981/portfolio
+
 theme:
   name: material
   palette:
