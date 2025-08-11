@@ -1,0 +1,26 @@
+site_name: Portfolio Maćka Mazura
+theme:
+  name: material
+
+  site_name: Moje projekty
+site_author: Maciej Sobczak
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+theme:
+  name: material
+  palette:
+    primary: blue
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Titanic": titanic/index.md
+  - "Analiza XRP": XRP/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - tables
