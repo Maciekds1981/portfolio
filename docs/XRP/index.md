@@ -1,5 +1,5 @@
 
-# To będzie strtona poświęcona projektowi analizy XRP
+# To będzie strtona poświęcona projektowi analizy XRP. Będziemy tutaj robili aplikacje dotyczące predykcji ceny XRP
 
 
 <div class="grid cards" markdown>
